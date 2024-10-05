@@ -5,7 +5,6 @@ The map for Western Aletpa Desert is a modified version of Moops's map with the 
 
 Currently I've only done a couple of 2048x2048 maps.  To use these create a new folder in Pivot using whatever name you fancy and move the folders into that directory (minus the 2048x2048 folder.)  Enxure that these override any other maps you have enabled in Pivot by typing /pivot and checking that they appear just under horizonoverrides.  You might need to edit the pivot.cfg file manually to place it near the top of the list like so:
 
-[overlays]
 0=horizonmusic
 1=xiview
 2=horizonoverrides
