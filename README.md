@@ -12,4 +12,4 @@ Currently I've only done a couple of 2048x2048 maps.  To use these create a new 
 	3=gg101-maps
 	4=moop-remapster-labeled
 	5=remapster
-	7=horizonhd
+	6=horizonhd
