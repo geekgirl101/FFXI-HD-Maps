@@ -14,5 +14,4 @@ Currently I've only done a couple of 2048x2048 maps.  To use these create a new 
 	5=remapster
 	6=horizonhd
 
-For more amazing remastered HD maps check out Moop's FFXI HD Hunting Maps:
-https://github.com/Moop-HorizonXI/FFXI-HD-hunting-maps
+For more amazing remastered HD maps visit https://github.com/Moop-HorizonXI/FFXI-HD-hunting-maps
