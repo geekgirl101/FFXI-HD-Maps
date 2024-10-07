@@ -15,3 +15,15 @@ Currently I've only done a couple of 2048x2048 maps.  To use these create a new 
 	6=horizonhd
 
 For more amazing remastered HD maps visit https://github.com/Moop-HorizonXI/FFXI-HD-hunting-maps
+
+New Maps
+|    <!-- -->          |        <!-- -->                     |
+|----------------------|-------------------------------------|
+| Cape Terrigan | Eastern Altepa Desert |
+| Ro'Maeve | |
+
+Modified Maps
+|    <!-- -->          |        <!-- -->                     |
+|----------------------|-------------------------------------|
+| Yuhtuna Jungle | Yhoator Jungle |
+| Western Altepa Desert | | 
