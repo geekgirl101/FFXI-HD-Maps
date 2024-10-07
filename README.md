@@ -27,3 +27,9 @@ Modified Maps
 |----------------------|-------------------------------------|
 | Yuhtunga Jungle | Yhoator Jungle |
 | Western Altepa Desert | | 
+
+![cape_terrigan](https://github.com/user-attachments/assets/e4db9dff-b244-4c5a-ad94-6c35f0cf0206)
+
+![eastern_altepa_desert](https://github.com/user-attachments/assets/3a42c21e-44de-474a-8a66-c978eb079ae8)
+
+![ro_maeve](https://github.com/user-attachments/assets/4496b3a3-e68a-407a-a185-a4eeb0acc925)
