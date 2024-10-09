@@ -22,10 +22,7 @@ __New Maps__
 |    <!-- -->          |        <!-- -->                     |
 |----------------------|-------------------------------------|
 | Cape Terrigan | Eastern Altepa Desert |
-| Ro'Maeve | Ifrit's Cauldron (Map #1)|
-| Ifrit's Cauldron (Map #2) | Ifrit's Cauldron (Map #3) |
-| Ifrit's Cauldron (Map #4) | Ifrit's Cauldron (Map #5) |
-| Ifrit's Cauldron (Map #6) | Ifrit's Cauldron (Map #7) |
+| Ro'Maeve | Ifrit's Cauldron |
 
 __Modified Maps__
 |    <!-- -->          |        <!-- -->                     |
