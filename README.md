@@ -25,6 +25,7 @@ __New Maps__
 | Ro'Maeve | Ifrit's Cauldron (Map #1)|
 | Ifrit's Cauldron (Map #2) | Ifrit's Cauldron (Map #3) |
 | Ifrit's Cauldron (Map #4) | Ifrit's Cauldron (Map #5) |
+| Ifrit's Cauldron (Map #7) | |
 
 __Modified Maps__
 |    <!-- -->          |        <!-- -->                     |
