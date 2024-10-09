@@ -32,6 +32,8 @@ __Modified Maps__
 | Yuhtunga Jungle | Yhoator Jungle |
 | Western Altepa Desert | | 
 
+Please also note that whilst the maps contain the remapster.com url at the bottom I am not part of the Remapster team.  If you have issues with the maps designed by Remapster then you'll need to contact their staff.
+
 ![cape_terrigan](https://github.com/user-attachments/assets/e4db9dff-b244-4c5a-ad94-6c35f0cf0206)
 
 ![eastern_altepa_desert](https://github.com/user-attachments/assets/0b9276c3-da17-4eca-b042-a67f8f9fde34)
