@@ -36,4 +36,5 @@ Please also note that whilst the maps contain the remapster.com url at the botto
 
 ![eastern_altepa_desert](https://github.com/user-attachments/assets/0b9276c3-da17-4eca-b042-a67f8f9fde34)
 
-![ro_maeve](https://github.com/user-attachments/assets/4496b3a3-e68a-407a-a185-a4eeb0acc925)
+![ro_maeve](https://github.com/user-attachments/assets/1509c2f9-e397-4deb-ae7c-21e4cc7f758e)
+
