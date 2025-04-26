@@ -39,4 +39,4 @@ Please also note that whilst the maps contain the remapster.com url at the botto
 
 ![ro_maeve](https://github.com/user-attachments/assets/1509c2f9-e397-4deb-ae7c-21e4cc7f758e)
 
-![the_garden_of_ruhmet_1](https://github.com/user-attachments/assets/080665ec-1e78-4710-93d5-14e38b9cb81f)
+![the_garden_of_ruhmet_1](https://github.com/user-attachments/assets/f4e69433-c2f5-4bb6-bc40-b42f9b484049)
