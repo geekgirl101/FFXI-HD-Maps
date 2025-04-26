@@ -23,6 +23,7 @@ __New Maps__
 |----------------------|-------------------------------------|
 | Cape Terrigan | Eastern Altepa Desert |
 | Ro'Maeve | Ifrit's Cauldron |
+| The Garden of Ru'hmet Map 1 | |
 
 __Modified Maps__
 |    <!-- -->          |        <!-- -->                     |
@@ -38,3 +39,4 @@ Please also note that whilst the maps contain the remapster.com url at the botto
 
 ![ro_maeve](https://github.com/user-attachments/assets/1509c2f9-e397-4deb-ae7c-21e4cc7f758e)
 
+![the_garden_of_ruhmet_1](https://github.com/user-attachments/assets/4a16ed3f-1cc7-4011-a874-3ed98c76c7ad)
