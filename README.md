@@ -14,7 +14,7 @@ Currently I've only done a few 2048x2048 maps.  To use these create a new folder
 	5=remapster
 	6=horizonhd
 
-You can also use these maps with CatseyeXI although they are optimized more for HorizonXI so they'll be missing out extra and custom NMs.  To organize them in pivot you'll need to set them up as so:
+You can also use these maps with CatseyeXI although they are optimized more for HorizonXI so they'll be missing out extra and custom NMs and some custom book and homepoint locations may be slightly off.  To organize them in pivot you'll need to set them up as so:
 
 	[overlays]
 	0=ffxi-lofi
