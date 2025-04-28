@@ -23,7 +23,7 @@ __New Maps__
 |----------------------|-------------------------------------|
 | Cape Terrigan | Eastern Altepa Desert |
 | Ro'Maeve | Ifrit's Cauldron |
-| The Garden of Ru'hmet Maps 1 -3 | |
+| The Garden of Ru'hmet | |
 
 __Modified Maps__
 |    <!-- -->          |        <!-- -->                     |
