@@ -14,7 +14,18 @@ Currently I've only done a few 2048x2048 maps.  To use these create a new folder
 	5=remapster
 	6=horizonhd
 
-For more amazing remastered HD maps visit https://github.com/Moop-HorizonXI/FFXI-HD-hunting-maps
+You can also use these maps with CatseyeXI although they are optimized more for HorizonXI so they'll be missing out extra and custom NMs.  To organize them in pivot you'll need to set them up as so:
+
+	[overlays]
+	0=ffxi-lofi
+	2=gg101-maps
+	1=moop-remaster-labelled
+	2=ffxi-hd
+	4=catseyexi
+	5=ffxi-maps\2048x2048
+ 	6=nexthd
+
+For more amazing remastered HD maps visit https://github.com/Moop-HorizonXI/FFXI-HD-hunting-mapsFor more amazing remastered HD maps visit https://github.com/Moop-HorizonXI/FFXI-HD-hunting-maps
 
 **NOTE:** Using Pivot allows you to add custom DAT files without writing over official files.  You can also disable custom DAT files without having to redownload all the official files should any of them be corrupted or not to your liking.  It's much preferred to install custom DAT files this way.
 
