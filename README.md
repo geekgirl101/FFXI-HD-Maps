@@ -44,6 +44,8 @@ __Modified Maps__
 
 Please also note that whilst the maps contain the remapster.com url at the bottom I am not part of the Remapster team.  If you have issues with the maps designed by Remapster then you'll need to contact their staff.
 
+If you have any questions or suggestions about my maps please free to ping me on Discord @geekgirl101
+
 ![cape_terrigan](https://github.com/user-attachments/assets/3443727e-20cf-495f-9ef0-097f7ec24120)
 
 ![eastern_altepa_desert](https://github.com/user-attachments/assets/0b9276c3-da17-4eca-b042-a67f8f9fde34)
