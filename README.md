@@ -51,5 +51,3 @@ Please also note that whilst the maps contain the remapster.com url at the botto
 ![ro_maeve](https://github.com/user-attachments/assets/1509c2f9-e397-4deb-ae7c-21e4cc7f758e)
 
 ![grand_palace_of_huxoi_2](https://github.com/user-attachments/assets/9560e2b1-2c5c-43d2-a6cb-ac95b0460bf9)
-
-![the_garden_of_ruhmet_1](https://github.com/user-attachments/assets/ae0cb8fb-9431-49b4-b790-54e1a10d6126)
