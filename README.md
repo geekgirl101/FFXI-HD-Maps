@@ -18,11 +18,11 @@ You can also use these maps with CatseyeXI although they are optimized more for 
 
 	[overlays]
 	0=ffxi-lofi
-	2=gg101-maps
-	3=moop-remaster-labelled
-	4=ffxi-hd
-	5=catseyexi
-	6=ffxi-maps\2048x2048
+	1=gg101-maps
+	2=moop-remaster-labelled
+	3=ffxi-hd
+	4=catseyexi
+	5=ffxi-maps\2048x2048
 
 For more amazing remastered HD maps visit https://github.com/Moop-HorizonXI/FFXI-HD-hunting-maps
 
