@@ -49,6 +49,6 @@ If you have any questions or suggestions about my maps please free to ping me on
 
 ![eastern_altepa_desert](https://github.com/user-attachments/assets/0b9276c3-da17-4eca-b042-a67f8f9fde34)
 
-![ro_maeve](https://github.com/user-attachments/assets/491a2acf-db46-4c89-b8ae-d610bd17793e)
+![ro_maeve](https://github.com/user-attachments/assets/b2f04c97-5228-4907-8333-a61ff11c7b2c)
 
 ![grand_palace_of_huxoi_2](https://github.com/user-attachments/assets/9560e2b1-2c5c-43d2-a6cb-ac95b0460bf9)
