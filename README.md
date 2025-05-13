@@ -19,7 +19,7 @@ You can also use these maps with CatseyeXI although they are optimized more for 
 	[overlays]
 	0=ffxi-lofi
 	1=gg101-maps
-	2=moop-remaster-labeled
+	2=moop-remapster-labeled
 	3=ffxi-hd
 	4=catseyexi
 	5=ffxi-maps\2048x2048
