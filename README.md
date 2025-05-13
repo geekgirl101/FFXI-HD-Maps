@@ -3,7 +3,7 @@ Some of the missing HD maps which I've taken time to edit myself.  These are bas
 
 The map for Western Aletpa Desert is a modified version of Moops's map with the numbering re-edited to match those seen on the wiki maps.  I've also done a very minor fixes to the Yhoator Jungle and Palborough Mines 2nd floor maps where accessible routes were missing and also to the Yuhtunga Jungle map where branches leading back into Ifrit's Cauldron were incorrect and missing the location for the Cerment Headstone.
 
-Currently I've only done a few 2048x2048 maps.  To use these create a new folder in Game/polplugins/DATS using whatever name you fancy and move the folders into that directory (minus the 2048x2048 folder.)  You might need to edit the pivot.ini file found in HorizonXI/Game/config/pivot manually to place it near the top of the list like so:
+Currently I've only done a few 2048x2048 maps.  To use these create a new folder in Game/polplugins/DATS using whatever name you fancy and move the folders into that directory (minus the 2048x2048 folder.)  You'll need to ensure your launcher seetings are set to not overwrite the pivot.ini otherwise it will reset it each time to the default settings, and you'll need to edit the pivot.ini file found in HorizonXI/Game/config/pivot manually to place it near the top of the list like so:
 
 	[overlays]
 	0=horizonmusic
@@ -14,7 +14,7 @@ Currently I've only done a few 2048x2048 maps.  To use these create a new folder
 	5=remapster
 	6=horizonhd
 
-You can also use these maps with CatseyeXI although they are optimized more for HorizonXI so they'll be missing out extra and custom NMs and some custom book and homepoint locations may be slightly off.  To organize them in pivot you'll need to set them up as so:
+You can also use these maps with CatseyeXI although they are optimized more for HorizonXI so they'll be missing out extra and custom NMs and some custom book and homepoint locations may be slightly off.  Again you'll need to adjust the settings in the launcher to not overwrite the pivot.ini and and edit the pivot.ini file found in CatseyeXI/catseyexi-client/Ashita/config/pivot and set it up as so:
 
 	[overlays]
 	0=ffxi-lofi
