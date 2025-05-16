@@ -34,7 +34,7 @@ __New Maps__
 | Cape Terrigan | Eastern Altepa Desert |
 | Ro'Maeve | Ifrit's Cauldron |
 | The Garden of Ru'hmet | Grand Palace of Hu'Xzoi |
-| Pashhow Marshlands [S] | |
+| Pashhow Marshlands [S] | Ordelles Caves |
 
 __Modified Maps__
 |    <!-- -->          |        <!-- -->                     |
