@@ -35,13 +35,14 @@ __New Maps__
 | Ro'Maeve | Ifrit's Cauldron |
 | The Garden of Ru'hmet | Grand Palace of Hu'Xzoi |
 | Pashhow Marshlands [S] | Ordelles Caves |
+| West Sarutabaruta [S] | |
 
 __Modified Maps__
 |    <!-- -->          |        <!-- -->                     |
 |----------------------|-------------------------------------|
 | Yuhtunga Jungle | Yhoator Jungle |
 | Western Altepa Desert | Palborough Mines Map 2 | 
-| Uleguerand Range | |
+| Uleguerand Range | Temple of Uggalepih |
 
 Please also note that whilst the maps contain the remapster.com url at the bottom I am not part of the Remapster team.  If you have issues with the maps designed by Remapster then you'll need to contact their staff.
 
