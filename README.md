@@ -35,7 +35,7 @@ __New Maps__
 | Ro'Maeve | Ifrit's Cauldron |
 | The Garden of Ru'hmet | Grand Palace of Hu'Xzoi |
 | Pashhow Marshlands [S] | Ordelles Caves |
-| West Sarutabaruta [S] | |
+| West Sarutabaruta [S] | North Gustaberg [S] |
 
 __Modified Maps__
 |    <!-- -->          |        <!-- -->                     |
