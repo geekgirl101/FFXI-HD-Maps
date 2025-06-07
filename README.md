@@ -36,6 +36,7 @@ __New Maps__
 | The Garden of Ru'hmet | Grand Palace of Hu'Xzoi |
 | Pashhow Marshlands [S] | Ordelles Caves |
 | West Sarutabaruta [S] | North Gustaberg [S] |
+| Jugner Forest [S] | |
 
 __Modified Maps__
 |    <!-- -->          |        <!-- -->                     |
