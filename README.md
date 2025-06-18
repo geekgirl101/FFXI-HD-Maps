@@ -38,7 +38,7 @@ __New Maps__
 | West Sarutabaruta [S] | North Gustaberg [S] |
 | Jugner Forest [S] | |
 
-__Modified Maps__
+__Modified/Fixed Maps__
 |    <!-- -->          |        <!-- -->                     |
 |----------------------|-------------------------------------|
 | Yuhtunga Jungle | Yhoator Jungle |
