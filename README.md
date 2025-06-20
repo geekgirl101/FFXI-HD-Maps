@@ -46,7 +46,7 @@ __Modified/Fixed Maps__
 | Uleguerand Range | Temple of Uggalepih |
 | Davoi | The Eldieme Necropolis |
 | Bostaunieux Oubliette Map 2 | Bostaunieux Oubliette Map 3 |
-| Beadeaux Map 1 | Beadeaux Map 2 |
+| Beadeaux | |
 
 Please also note that whilst the maps contain the remapster.com url at the bottom I am not part of the Remapster team.  If you have issues with the maps designed by Remapster then you'll need to contact their staff.
 
