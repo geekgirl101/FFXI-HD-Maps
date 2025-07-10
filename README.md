@@ -26,7 +26,7 @@ You can also use these maps with CatseyeXI although they are optimized more for 
 
 For more amazing remastered HD maps visit https://github.com/Moop-HorizonXI/FFXI-HD-hunting-maps
 
-**NOTE:** Using Pivot allows you to add custom DAT files without writing over official files.  You can also disable custom DAT files without having to redownload all the official files should any of them be corrupted or not to your liking.  It's much preferred to install custom DAT files this way so you don't accidentally break your game and be required to redownload all the official files again.
+**NOTE:** Using Pivot allows you to add and remove custom DAT files which override the official files.  It's much preferred to install custom DAT files this way so you don't accidentally break your game and be required to redownload all the official files again.
 
 __New Maps__
 |    <!-- -->          |        <!-- -->                     |
