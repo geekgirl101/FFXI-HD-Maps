@@ -14,7 +14,7 @@ To use these create a new folder in Game/polplugins/DATS using whatever name you
 	5=remapster
 	6=horizonhd
 
-You can also use these maps with CatseyeXI although they are optimized more for HorizonXI so they'll be missing out extra and custom NMs and some custom book and homepoint locations may be slightly off.  Again you'll need to adjust the settings in the launcher to not overwrite the pivot.ini and and edit the pivot.ini file found in CatseyeXI/catseyexi-client/Ashita/config/pivot and set it up as so:
+You can also use these maps with CatseyeXI although they are optimized more for HorizonXI so they'll be missing out extra and custom NMs and some custom book and homepoint locations may be slightly off.  Again you'll need to adjust the settings in the launcher to not overwrite the pivot.ini and edit the pivot.ini file found in CatseyeXI/catseyexi-client/Ashita/config/pivot and set it up as so:
 
 	[overlays]
 	0=ffxi-lofi
