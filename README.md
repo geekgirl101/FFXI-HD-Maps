@@ -1,5 +1,5 @@
 # FFXI-HD-Maps
-Some of the missing HD maps which I've taken time to edit myself.  These are based both on AkadenTK's Remapster Maps and Moop FFXI HD Hunting Maps for cleaner and more informative maps.
+Some of the missing HD maps which I've taken time to edit myself.  These are based both on AkadenTK's Remapster Maps and Moop FFXI HD Hunting Maps for cleaner and more informative maps.  I will also be uploading even more cleaner maps based on AkadenTK's Remapster Maps which don't include all the extra hunting and quest data.
 
 The map for Western Aletpa Desert is a modified version of Moops's map with the numbering re-edited to match those seen on the wiki maps.  I've also done very minor fixes to the Yhoator Jungle and Palborough Mines 2nd floor maps where accessible routes were missing and also to the Yuhtunga Jungle map where branches leading back into Ifrit's Cauldron were incorrect and missing the location for the Cerment Headstone.  I've also begun adding NM, quest and chest info on the Remapster maps, but I will make another repository of the maps I've personally made without the info for people who want more cleaner maps without all the extra clutter.
 
