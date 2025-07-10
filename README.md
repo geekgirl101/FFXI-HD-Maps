@@ -53,7 +53,7 @@ Please also note that whilst the maps contain the remapster.com url at the botto
 
 If you have any questions or suggestions about my maps please free to ping me on Discord @geekgirl101
 
-![cape_terrigan](https://github.com/user-attachments/assets/3443727e-20cf-495f-9ef0-097f7ec24120)
+![cape_terrigan](https://github.com/user-attachments/assets/f7337b23-76bf-4827-b4ca-affc1a21b509)
 
 ![eastern_altepa_desert](https://github.com/user-attachments/assets/ff0c1800-d45c-409e-833f-8ee297324edb)
 
