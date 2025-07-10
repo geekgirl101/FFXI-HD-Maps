@@ -55,8 +55,8 @@ If you have any questions or suggestions about my maps please free to ping me on
 
 ![cape_terrigan](https://github.com/user-attachments/assets/3443727e-20cf-495f-9ef0-097f7ec24120)
 
-![eastern_altepa_desert](https://github.com/user-attachments/assets/0b9276c3-da17-4eca-b042-a67f8f9fde34)
+![eastern_altepa_desert](https://github.com/user-attachments/assets/ff0c1800-d45c-409e-833f-8ee297324edb)
 
-![ro_maeve](https://github.com/user-attachments/assets/f7a581dc-049b-4b7b-b9bc-a7be327d54a3)
+![ro_maeve](https://github.com/user-attachments/assets/dc3b8601-81a5-429b-93bc-75ad8abc11d2)
 
-![grand_palace_of_huxoi_2](https://github.com/user-attachments/assets/9560e2b1-2c5c-43d2-a6cb-ac95b0460bf9)
+![grand_palace_of_huxoi_2](https://github.com/user-attachments/assets/8ab0298e-4502-4231-bdf6-23817f06b755)
