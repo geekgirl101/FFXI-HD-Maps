@@ -1,5 +1,5 @@
 # FFXI-HD-Maps
-Some of the missing HD maps which I've taken time to edit myself.  These are based both on AkadenTK's Remapster Maps and Moop FFXI HD Hunting Maps for cleaner and more informative maps.
+Some of the missing HD maps which I've taken time to edit myself.  These are based both on AkadenTK's Remapster Maps and Moop FFXI HD Hunting Maps for more higher definition maps.
 
 Hunting Maps contains maps that I've both created myself and edited to include more data such as chest locations, quest markers, and monster spawn areas similar to Moop FFXI HD Hunting Maps.  Clean Maps are maps I've created by myself or fixed that doesn't include all the extra data for more cleaner looking maps similar to AkadenTK's Remapster Maps.
 
