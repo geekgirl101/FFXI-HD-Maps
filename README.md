@@ -51,7 +51,7 @@ __Modified/Fixed Maps__
 
 Please also note that whilst the maps contain the remapster.com url at the bottom I am not part of the Remapster team.  If you have issues with the maps designed by Remapster then you'll need to contact their staff.
 
-If you have any questions or suggestions about my maps please free to ping me on Discord @geekgirl101
+If you have any questions or suggestions about my maps please free to ping me on Discord @geekgirl101, or you could try to contact me on CatseyeXI @Melanie
 
 ![cape_terrigan](https://github.com/user-attachments/assets/f7337b23-76bf-4827-b4ca-affc1a21b509)
 
