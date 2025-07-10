@@ -53,8 +53,8 @@ Please also note that whilst the maps contain the remapster.com url at the botto
 
 If you have any questions or suggestions about my maps please free to ping me on Discord @geekgirl101, or you could try to contact me on CatseyeXI @Melanie
 
-|    Hunting          |        Clean                     |
-|----------------------|-------------------------------------|
+| Hunting | Clean |
+|-----------------------------|------------------------------|
 | ![cape_terrigan](https://github.com/user-attachments/assets/f7337b23-76bf-4827-b4ca-affc1a21b509) | ![cape_terrigan](https://github.com/user-attachments/assets/9ef06432-136c-4e2f-b277-873c9241e4d6) |
 | ![eastern_altepa_desert](https://github.com/user-attachments/assets/ff0c1800-d45c-409e-833f-8ee297324edb) | ![eastern_altepa_desert](https://github.com/user-attachments/assets/1c39488f-e967-40a8-8782-78bc8ee2a0ea) |
 | ![ro_maeve](https://github.com/user-attachments/assets/dc3b8601-81a5-429b-93bc-75ad8abc11d2) | ![ro_maeve](https://github.com/user-attachments/assets/57ba6d1f-f021-4b7a-af4e-26ab1aef8cfc) |
