@@ -1,7 +1,7 @@
 # FFXI-HD-Maps
 Some of the missing HD maps which I've taken time to edit myself.  These are based both on AkadenTK's Remapster Maps and Moop FFXI HD Hunting Maps for more higher definition maps.
 
-For player preference there are 2 types of maps you can choose from.  Hunting Maps are maps that I've both created myself and edited to include more data such as chest locations, quest markers, gathering points, and monster spawn areas similar to Moop FFXI HD Hunting Maps.  Clean Maps are unadulterated version of the maps I've created by myself or fixed that doesn't include all the extra data for more cleaner looking maps similar to AkadenTK's Remapster Maps.
+For player preference there are 2 types of maps you can choose from.  Hunting Maps are maps that I've both created myself and edited to include more data such as chest locations, quest markers, gathering points, and monster spawn areas similar to Moop FFXI HD Hunting Maps.  Clean Maps are unadulterated versions of the maps I've created myself or fixed that doesn't include all the extra data for more cleaner looking maps similar to AkadenTK's Remapster Maps and are suitable for players who want the legacy look but without all the clutter.
 
 To use these create a new folder in Game/polplugins/DATS using whatever name you fancy and move the ROM folder and all of its content into that directory.  You'll need to ensure your launcher seetings are set to not overwrite the pivot.ini otherwise it will reset it each time to the default settings, and you'll need to edit the pivot.ini file found in HorizonXI/Game/config/pivot manually to place the custom maps above any other custom maps in the list like so:
 
