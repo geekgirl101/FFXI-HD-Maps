@@ -36,7 +36,7 @@ __New Maps__
 | The Garden of Ru'hmet | Grand Palace of Hu'Xzoi |
 | Pashhow Marshlands [S] | Ordelles Caves |
 | West Sarutabaruta [S] | North Gustaberg [S] |
-| Jugner Forest [S] | |
+| Jugner Forest [S] | Meriphataud Mountains [S] |
 
 __Modified/Fixed Maps__
 |    <!-- -->          |        <!-- -->                     |
@@ -48,7 +48,7 @@ __Modified/Fixed Maps__
 | Bostaunieux Oubliette Map 2 | Bostaunieux Oubliette Map 3 |
 | Beadeaux | Maze of Shakrami |
 | Xarcabard | Jugner Forest |
-| Pashhow Marwshlands ||
+| Pashhow Marwshlands | |
 
 Please also note that whilst the maps contain the remapster.com url at the bottom I am not part of the Remapster team.  If you have issues with the maps designed by Remapster then you'll need to contact their staff.
 
