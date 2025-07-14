@@ -1,5 +1,5 @@
 # FFXI-HD-Maps
-Some of the missing HD maps which I've taken time to edit myself.  These are based both on AkadenTK's Remapster Maps and Moop FFXI HD Hunting Maps for more higher definition maps.
+Some of the missing HD maps which I've taken time to edit myself.  These are based both on [AkadenTK's Remapster Maps](https://github.com/AkadenTK/remapster_maps) and [Moop FFXI HD Hunting Maps](https://github.com/Moop-HorizonXI/FFXI-HD-hunting-maps) for more higher definition maps.
 
 For player preference there are 2 types of maps you can choose from.  Hunting Maps are maps that I've both created myself and edited to include more data such as chest locations, quest markers, gathering points, and monster spawn areas similar to Moop FFXI HD Hunting Maps.  Clean Maps are unadulterated versions of the maps I've created myself or fixed that doesn't include all the extra data for more cleaner looking maps similar to AkadenTK's Remapster Maps and are suitable for players who want the legacy look but without all the clutter.
 
@@ -23,8 +23,6 @@ You can also use these maps with CatseyeXI although they are optimized more for 
 	3=ffxi-hd
 	4=catseyexi
 	5=ffxi-maps\2048x2048
-
-For more amazing remastered HD maps visit https://github.com/Moop-HorizonXI/FFXI-HD-hunting-maps
 
 **NOTE:** Using Pivot allows you to add and remove custom DAT files which override the official files.  It's much preferred to install custom DAT files this way so you don't accidentally break your game by overwriting the official files and need to redownload all the official files again.
 
