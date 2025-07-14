@@ -53,6 +53,8 @@ Please also note that whilst the maps contain the remapster.com url at the botto
 
 If you have any questions or suggestions about my maps please free to ping me on Discord @geekgirl101, or you could try to contact me on CatseyeXI @Melanie
 
+A big thank you to AkadenTK and his crew and to Moop for their years of hard work into creating HD maps for Final Fantasy XI.
+
 | Hunting | Clean |
 |-----------------------------|------------------------------|
 | ![cape_terrigan](https://github.com/user-attachments/assets/f7337b23-76bf-4827-b4ca-affc1a21b509) | ![cape_terrigan](https://github.com/user-attachments/assets/9ef06432-136c-4e2f-b277-873c9241e4d6) |
