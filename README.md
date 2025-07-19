@@ -59,5 +59,5 @@ A big thank you to AkadenTK and his crew and to Moop for their years of hard wor
 |-----------------------------|------------------------------|
 | ![cape_terrigan](https://github.com/user-attachments/assets/f7337b23-76bf-4827-b4ca-affc1a21b509) | ![cape_terrigan](https://github.com/user-attachments/assets/9ef06432-136c-4e2f-b277-873c9241e4d6) |
 | ![eastern_altepa_desert](https://github.com/user-attachments/assets/ff0c1800-d45c-409e-833f-8ee297324edb) | ![eastern_altepa_desert](https://github.com/user-attachments/assets/1c39488f-e967-40a8-8782-78bc8ee2a0ea) |
-| ![ro_maeve](https://github.com/user-attachments/assets/a3044e7a-5e68-4045-bed6-4f851fdf1405) | ![ro_maeve](https://github.com/user-attachments/assets/6bb405d2-2f0c-424c-8bd4-27335aa4a0f4) |
+| ![ro_maeve](https://github.com/user-attachments/assets/78454de6-ce65-4352-927d-b3bc72ddb115) | ![ro_maeve](https://github.com/user-attachments/assets/2f89fcd7-7962-4b6a-85b5-b8b9b01aab7c) |
 | ![grand_palace_of_huxoi_2](https://github.com/user-attachments/assets/8ab0298e-4502-4231-bdf6-23817f06b755) | ![grand_palace_of_huxoi_2](https://github.com/user-attachments/assets/dacfae8d-d27c-47ef-a3c0-c90123b60663) |
