@@ -35,7 +35,7 @@ __New Maps__
 | Pashhow Marshlands [S] | Ordelles Caves |
 | West Sarutabaruta [S] | North Gustaberg [S] |
 | Jugner Forest [S] | Meriphataud Mountains [S] |
-| Sauromugue Champaign [S] | Carpenter's Landing Map 1 |
+| Sauromugue Champaign [S] | |
 
 __Modified/Fixed Maps__
 |    <!-- -->          |        <!-- -->                     |
