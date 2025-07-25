@@ -1,6 +1,6 @@
 __Q. Do I need to download both the Hunting Maps and the Clean Maps?__
 
-__A.__ No.  These are divided into 2 types of maps to suit your preference.  Using both at the same time will simply have one pack overwrite the other.
+__A.__ No.  These are divided into 2 types of maps to suit your preference.  Using both at the same time will have one pack overwrite the other.
 
 ____
 __Q. I don't like the Hunting Maps, how do I switch to Clean Maps?__
