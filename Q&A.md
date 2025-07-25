@@ -17,11 +17,10 @@ as it won't update otherwise.
 ____
 __Q. Can I overwrite the official files instead of using Pivot?__
 
-__A.__ Yes you can, but this is inadvisable in case of any files that may be corrupted during the download process.  Also if you decide you don't want to 
-use these files later on you won't be able to just simply remove them and would have to redownload the entire FFXI game again.
+__A.__ Yes you can, but this is inadvisable in case of any files that may be corrupted during the download process.  Also if you decide you don't 
+want to use these files later on you won't be able to just simply remove them and would have to redownload the entire FFXI game again.
 
 ____
 __Q. I don't like your maps, can I go back to the old ones?__
 
-__A.___ Yes, you can do this in the game by clicking on the - next to the folder name you created for my maps and then restart the game.  This will return 
-your maps back to the previous ones.
+__A.___ Yes, you can do this in the game by clicking on the - next to the folder name you created for my maps in Pivot and then restart the game.
