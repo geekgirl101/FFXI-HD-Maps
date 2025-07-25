@@ -13,8 +13,8 @@ ____
 __Q. I don't see any changes in the game!__
 
 __A.__ You'll need to fully log out and back in again for the maps to take effect.
-If you're replacing files that are already there the change won't require a restart, but you'll have to reload Minimap if you're using that addon 
-as it won't update otherwise.
+If you're replacing existing files the change won't require a restart, but you'll have to reload Minimap if you're using that addon as it won't 
+update otherwise.
 
 ____
 __Q. Can I overwrite the official files instead of using Pivot?__
