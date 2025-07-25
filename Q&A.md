@@ -31,3 +31,9 @@ ____
 __Q. Will you be making more maps?__
 
 __A.__ Yes.  I am constantly making or editing the existing maps.  I also play FFXI too which is why I release maps slowly every few days.
+
+____
+__Q. Will you be making maps for retail FFXI?__
+
+__A.__ Unfortunately no.  I have little interest for FFXI retail, and from what I'm aware most of the maps by Remapster already cover all the more 
+newer content so it's not needed for me to do anything to them.
