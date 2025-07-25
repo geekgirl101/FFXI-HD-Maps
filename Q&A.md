@@ -25,4 +25,4 @@ want to use these files later on you won't be able to just simply remove them an
 ____
 __Q. I don't like your maps, can I go back to the old ones?__
 
-__A.___ Yes, you can do this in the game by clicking on the - next to the folder name you created for my maps in Pivot and then restart the game.
+__A.__ Yes, you can do this in the game by clicking on the - next to the folder name you created for the maps in Pivot and then restart the game.
