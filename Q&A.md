@@ -5,7 +5,7 @@ __A.__ No.  These are divided into 2 types of maps to suit your preference.
 ____
 __Q. I don't like the Hunting Maps, how do I switch to Clean Maps?__
 
-__A.__ Simply download the Clean Maps and delete the folder you downloaded the Hunting Maps in and create a new folder and drop your Clean Maps in there.
+__A.__ Simply delete the folder you downloaded the Hunting Maps in, create a new folder for the Clean Maps then download and drop the Clean Maps in there.
 
 ____
 __Q. I don't see any changes in the game!__
