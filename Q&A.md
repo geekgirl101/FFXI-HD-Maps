@@ -26,3 +26,8 @@ ____
 __Q. I don't like your maps, can I go back to the old ones?__
 
 __A.__ Yes, you can do this in the game by clicking on the - next to the folder name you created for the maps in Pivot and then restart the game.
+
+____
+__Q. Will you be making more maps?__
+
+__A.__ Yes.  I am constantly making or editing the existing maps.  I also play FFXI too which is why I release maps slowly every few days.
