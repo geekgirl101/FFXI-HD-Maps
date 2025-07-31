@@ -48,6 +48,7 @@ __Modified/Fixed Maps__
 | Beadeaux | Maze of Shakrami |
 | Xarcabard | Jugner Forest |
 | Pashhow Marwshlands | Castle Oztroja Maps 2, 5, 6 and 7 |
+| Castle Zvahl Baileys Map 3 | |
 
 Please also note that whilst the maps contain the remapster.com url at the bottom I am not part of the Remapster team.  If you have issues with the maps designed by Remapster then you'll need to contact their staff.
 
