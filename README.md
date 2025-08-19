@@ -36,6 +36,7 @@ __New Maps__
 | West Sarutabaruta [S] | North Gustaberg [S] |
 | Jugner Forest [S] | Meriphataud Mountains [S] |
 | Sauromugue Champaign [S] | Carpenters' Landing Map 1 |
+| Monastic Cavern ||
 
 __Modified/Fixed Maps__
 |    <!-- -->          |        <!-- -->                     |
