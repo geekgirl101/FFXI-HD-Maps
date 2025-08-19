@@ -36,7 +36,6 @@ __New Maps__
 | West Sarutabaruta [S] | North Gustaberg [S] |
 | Jugner Forest [S] | Meriphataud Mountains [S] |
 | Sauromugue Champaign [S] | Carpenters' Landing Map 1 |
-| Monastic Cavern ||
 
 __Modified/Fixed Maps__
 |    <!-- -->          |        <!-- -->                     |
@@ -50,7 +49,7 @@ __Modified/Fixed Maps__
 | Xarcabard | Jugner Forest |
 | Pashhow Marwshlands | Castle Oztroja Maps 2 - 7 |
 | Castle Zvahl Baileys Map 3 | Middle Delkfutt's Tower Map 3 |
-| Buburimu Peninsula | |
+| Buburimu Peninsula | Monastic Cavern |
 
 Please also note that whilst the maps contain the remapster.com url at the bottom I am not part of the Remapster team.  If you have issues with the maps designed by Remapster then you'll need to contact their staff.
 
