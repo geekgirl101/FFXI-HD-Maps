@@ -51,6 +51,7 @@ __Modified/Fixed Maps__
 | Castle Zvahl Baileys Map 3 | Middle Delkfutt's Tower Map 3 |
 | Buburimu Peninsula | Monastic Cavern |
 | Tahrongi Canyon | Lower Jeuno |
+| Konschtat Highlands ||
 
 Please also note that whilst the maps contain the remapster.com url at the bottom I am not part of the Remapster team.  If you have issues with the maps designed by Remapster then you'll need to contact their staff.
 
